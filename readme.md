@@ -1,4 +1,4 @@
-⏰ [Tímavera](https://timavera.com) co-founder, time tracking for contractors, bootstrapped micro SaaS  
+⏰ [Tímavera](https://timavera.com) co-founder, time tracking for contractors  
 🏡 Icelandic 🇮🇸 frontend engineer  
 ⚡️ Specialisation: JavaScript, React, React Native  
 👩‍💻 Exploring: Serverless, FaunaDB, Next.js & Vercel, Tailwind  
